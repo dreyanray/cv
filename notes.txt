@@ -1,0 +1,8 @@
+<em> italic </>
+<strong> bold </>
+
+007 Circle-Image-Cropper
+https://crop-circle.imageonline.co/
+
+007 Image-too-big-resize-tool
+https://www.befunky.com/create/resize-image/
